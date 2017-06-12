@@ -7,8 +7,6 @@ brew tap caskroom/fonts
 brew tap caskroom/versions
 brew tap homebrew/boneyard
 brew tap homebrew/core
-brew tap homebrew/dupes
-brew tap homebrew/python
 brew tap homebrew/science
 brew tap homebrew/services
 brew tap homebrew/versions
