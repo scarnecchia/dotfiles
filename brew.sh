@@ -3,12 +3,9 @@
 # Install command-line tools using Homebrew.
 # Taps
 brew tap caskroom/cask
-brew tap caskroom/fonts
 brew tap caskroom/versions
-brew tap homebrew/boneyard
 brew tap homebrew/core
 brew tap homebrew/science
-brew tap homebrew/services
 brew tap homebrew/versions
 brew tap osgeo/osgeo4mac
 
@@ -34,7 +31,6 @@ brew cask install google-earth-pro
 brew cask install kodi
 brew cask install macvim
 brew cask install meshlab
-brew cask install mou
 brew cask install pdfinfo
 brew cask install pdftotext
 brew cask install qgis
@@ -88,11 +84,9 @@ brew install lynx
 brew install mapnik
 brew install mas
 brew install homebrew/science/matplotlib
-brew install midnight-commander
-brew install mongodb
 brew install mtr
 brew install nmap
-#brew install node --without-npm
+brew install node --without-npm
 brew install notmuch
 brew install openvpn
 brew install pandoc
