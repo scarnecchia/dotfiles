@@ -3,7 +3,7 @@ export PATH=$HOME/.node/bin:$PATH
 export PATH=$HOME/.npm-packages/bin:$PATH
 export PATH=/usr/bin/less:$PATH
 export GRASS_PYTHON=/usr/bin/pythonw2.7
-export HOMEBREW_GITHUB_API_TOKEN=cbc6fdc537295a8010ea522c3f4e537707da115a
+export HOMEBREW_GITHUB_API_TOKEN=
 
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
