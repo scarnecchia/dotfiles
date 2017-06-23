@@ -1,6 +1,6 @@
-# Mathias’s dotfiles
+# Scarnecchia's dotfiles.
 
-![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
+Forked and based off of [Mathias’s fantastic dotfiles](https://github.com/mathiasbynens/dotfiles).
 
 ## Installation
 
